@@ -2,10 +2,10 @@
 [termux users only]
 helps you get admin password
 wifi password and much more info from
-#backupsettings.conf file
+backupsettings.conf file
 
 
-#installation 
+# installation 
 git clone https://github.com/termux4me/Rsettings.git
 cd Rsettings
 bash setup.sh
@@ -15,7 +15,7 @@ bash setup.sh
 
 # usage
 put backupsettings.conf into /sdcard/Download
-type Rsettings
 
+type Rsettings
 
 
